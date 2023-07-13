@@ -2,7 +2,7 @@ import User from "../../../models/User";
 import connectDb from "../../../middleware/mongoose";
 var CryptoJS = require("crypto-js");
 var jwt = require("jsonwebtoken");
-// var token = jwt.sign({ foo: "bar" }, "shhhhh");
+// var token = jwt.sign({ foo: "bar" }, "shhhhh") ;
 
 const handler = async (req, res) => {
   if (req.method == "POST") {
