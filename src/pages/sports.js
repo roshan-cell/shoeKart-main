@@ -7,14 +7,14 @@ const Sports = () => {
     <div>
       <section className="text-gray-600 body-font">
         <div className="container px-5 py-24 mx-auto">
-          <div className="flex flex-wrap -m-4 justify-center">
-          <Link href={"/product/wear-with-pride"}>
+          <div className="flex flex-wrap -m-4 justify-around">
+            <Link href={"/product/wear-with-pride"} className="w-1/4 md:w-1/3">
               {" "}
-              <div className="lg:w-1/1 md:w-1/2 p-4 w-full  cursor-pointer  shadow-lg m-5">
-                <a className="block relative  rounded overflow-hidden">
+              <div className="lg:w-1/1  p-4 w-full  cursor-pointer  shadow-lg m-5">
+                <a className="block relative  rounded overflow-hidden flex justify-center ">
                   <img
                     alt="ecommerce"
-                    className="m-auto md:mx-0 h-[30vh] md:h-[36vh] block"
+                    className="m-auto md:mx-0 h-[30vh] md:h-[36vh] md:mx-0 w-[24vh] md:w-[30vh] block"
                     src="https://source.unsplash.com/random/900×700/?sports-shoes"
                   />
                 </a>
@@ -31,13 +31,13 @@ const Sports = () => {
               </div>
             </Link>
 
-            <Link href={"/product/wear-with-pride"}>
+            <Link href={"/product/wear-with-pride"} className="w-1/4 md:w-1/3">
               {" "}
-              <div className="lg:w-1/1 md:w-1/2 p-4 w-full  cursor-pointer  shadow-lg m-5">
-                <a className="block relative  rounded overflow-hidden">
+              <div className="lg:w-1/1  p-4 w-full  cursor-pointer  shadow-lg m-5">
+                <a className="block relative  rounded overflow-hidden flex justify-center ">
                   <img
                     alt="ecommerce"
-                    className="m-auto md:mx-0 h-[30vh] md:h-[36vh] block"
+                    className="m-auto md:mx-0 h-[30vh] md:h-[36vh] md:mx-0 w-[24vh] md:w-[30vh] "
                     src="https://source.unsplash.com/random/900×700/?sports-shoes"
                   />
                 </a>
@@ -54,13 +54,13 @@ const Sports = () => {
               </div>
             </Link>
 
-            <Link href={"/product/wear-with-pride"}>
+            <Link href={"/product/wear-with-pride"} className="w-1/4 md:w-1/3">
               {" "}
-              <div className="lg:w-1/1 md:w-1/2 p-4 w-full  cursor-pointer  shadow-lg m-5">
-                <a className="block relative  rounded overflow-hidden">
+              <div className="lg:w-1/1  p-4 w-full  cursor-pointer  shadow-lg m-5">
+                <a className="block relative  rounded overflow-hidden flex justify-center ">
                   <img
                     alt="ecommerce"
-                    className="m-auto md:mx-0 h-[30vh] md:h-[36vh] block"
+                    className="m-auto md:mx-0 h-[30vh] md:h-[36vh] md:mx-0 w-[24vh] md:w-[30vh] "
                     src="https://source.unsplash.com/random/900×700/?sports-shoes"
                   />
                 </a>
@@ -77,13 +77,13 @@ const Sports = () => {
               </div>
             </Link>
 
-            <Link href={"/product/wear-with-pride"}>
+            <Link href={"/product/wear-with-pride"} className="w-1/4 md:w-1/3">
               {" "}
-              <div className="lg:w-1/1 md:w-1/2 p-4 w-full  cursor-pointer  shadow-lg m-5">
-                <a className="block relative  rounded overflow-hidden">
+              <div className="lg:w-1/1  p-4 w-full  cursor-pointer  shadow-lg m-5">
+                <a className="block relative  rounded overflow-hidden flex justify-center ">
                   <img
                     alt="ecommerce"
-                    className="m-auto md:mx-0 h-[30vh] md:h-[36vh] block"
+                    className="m-auto md:mx-0 h-[30vh] md:h-[36vh] md:mx-0 w-[24vh] md:w-[30vh] "
                     src="https://source.unsplash.com/random/900×700/?sports-shoes"
                   />
                 </a>
@@ -100,13 +100,13 @@ const Sports = () => {
               </div>
             </Link>
 
-            <Link href={"/product/wear-with-pride"}>
+            <Link href={"/product/wear-with-pride"} className="w-1/4 md:w-1/3">
               {" "}
-              <div className="lg:w-1/1 md:w-1/2 p-4 w-full  cursor-pointer  shadow-lg m-5">
-                <a className="block relative  rounded overflow-hidden">
+              <div className="lg:w-1/1  p-4 w-full  cursor-pointer  shadow-lg m-5">
+                <a className="block relative  rounded overflow-hidden flex justify-center ">
                   <img
                     alt="ecommerce"
-                    className="m-auto md:mx-0 h-[30vh] md:h-[36vh] block"
+                    className="m-auto md:mx-0 h-[30vh] md:h-[36vh] md:mx-0 w-[24vh] md:w-[30vh] "
                     src="https://source.unsplash.com/random/900×700/?sports-shoes"
                   />
                 </a>
@@ -123,13 +123,13 @@ const Sports = () => {
               </div>
             </Link>
 
-            <Link href={"/product/wear-with-pride"}>
+            <Link href={"/product/wear-with-pride"} className="w-1/4 md:w-1/3">
               {" "}
-              <div className="lg:w-1/1 md:w-1/2 p-4 w-full  cursor-pointer  shadow-lg m-5">
-                <a className="block relative  rounded overflow-hidden">
+              <div className="lg:w-1/1  p-4 w-full  cursor-pointer  shadow-lg m-5">
+                <a className="block relative  rounded overflow-hidden flex justify-center ">
                   <img
                     alt="ecommerce"
-                    className="m-auto md:mx-0 h-[30vh] md:h-[36vh] block"
+                    className="m-auto md:mx-0 h-[30vh] md:h-[36vh] md:mx-0 w-[24vh] md:w-[30vh] "
                     src="https://source.unsplash.com/random/900×700/?sports-shoes"
                   />
                 </a>
@@ -146,13 +146,13 @@ const Sports = () => {
               </div>
             </Link>
 
-            <Link href={"/product/wear-with-pride"}>
+            <Link href={"/product/wear-with-pride"} className="w-1/4 md:w-1/3">
               {" "}
-              <div className="lg:w-1/1 md:w-1/2 p-4 w-full  cursor-pointer  shadow-lg m-5">
-                <a className="block relative  rounded overflow-hidden">
+              <div className="lg:w-1/1  p-4 w-full  cursor-pointer  shadow-lg m-5">
+                <a className="block relative  rounded overflow-hidden flex justify-center ">
                   <img
                     alt="ecommerce"
-                    className="m-auto md:mx-0 h-[30vh] md:h-[36vh] block"
+                    className="m-auto md:mx-0 h-[30vh] md:h-[36vh] md:mx-0 w-[24vh] md:w-[30vh] "
                     src="https://source.unsplash.com/random/900×700/?sports-shoes"
                   />
                 </a>
@@ -169,13 +169,13 @@ const Sports = () => {
               </div>
             </Link>
 
-            <Link href={"/product/wear-with-pride"}>
+            <Link href={"/product/wear-with-pride"} className="w-1/4 md:w-1/3">
               {" "}
-              <div className="lg:w-1/1 md:w-1/2 p-4 w-full  cursor-pointer  shadow-lg m-5">
-                <a className="block relative  rounded overflow-hidden">
+              <div className="lg:w-1/1  p-4 w-full  cursor-pointer  shadow-lg m-5">
+                <a className="block relative  rounded overflow-hidden flex justify-center ">
                   <img
                     alt="ecommerce"
-                    className="m-auto md:mx-0 h-[30vh] md:h-[36vh] block"
+                    className="m-auto md:mx-0 h-[30vh] md:h-[36vh] md:mx-0 w-[24vh] md:w-[30vh] "
                     src="https://source.unsplash.com/random/900×700/?sports-shoes"
                   />
                 </a>
@@ -191,8 +191,6 @@ const Sports = () => {
                 </div>
               </div>
             </Link>
-
-            
           </div>
         </div>
       </section>
